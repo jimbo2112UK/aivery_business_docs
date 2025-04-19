@@ -1,0 +1,5 @@
+argparse>=1.4.0
+numpy>=1.23.0
+pyyaml>=6.0
+sentence-transformers>=2.2.2
+markdownlint-cli>=0.33.0
